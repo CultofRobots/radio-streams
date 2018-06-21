@@ -96,3 +96,51 @@ https://wwfm.streamguys1.com/live-mp3<br/>
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3AAC.aac<br/>
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3<br/>
 
+## College Radio Stations:<br/>
+**KALX 90.7FM Berkeley**<br/>
+http://stream.kalx.berkeley.edu:8000/kalx-320.aac<br/>
+http://stream.kalx.berkeley.edu:8000/kalx-256.mp3<br/>
+
+**KCPR Cal Poly Radio**<br/>
+http://129.65.35.106:8000/KCPRHIGH<br/>
+
+**KCSB FM Live, Santa Barbara**<br/>
+http://live.kcsb.org/KCSB_128<br/>
+
+** KPSU 98.1 FM, Portland State University**<br/>
+http://stream.kpsu.org:8080/listen<br/>
+
+**KUPS 90.1 FM University of Puget Sound**<br/>
+http://stream.kups.net<br/>
+
+**WECB Radio - The Underground Sound of Emerson College**<br/>
+http://marconi.emerson.edu:8000/wecb-aac<br/>
+http://marconi.emerson.edu:8000/wecb<br/>
+
+**WERS 88.9 FM Emerson College Boston**<br/>
+http://marconi.emerson.edu:8000/wers<br/>
+
+**WGRE 91.5 FM DePauw University, Your Sound Alternative**<br/>
+http://184.154.90.186:8181/<br/>
+
+**WICB 91.7 FM Ithaca College**<br/>
+https://streams.wicb.org/stream/4<br/>
+
+**WKDU Drexel University Philadelphia 91.7FM**<br/>
+http://streams.wkdu.org/listen.aac<br/>
+http://streams.wkdu.org/listen.mp3<br/>
+
+**WKNC 88.1 FM Raleigh, North Carolina State University**<br/>
+http://wknc.sma.ncsu.edu:8000/wknchq.ogg<br/>
+http://wknc.sma.ncsu.edu:8000/wknchq<br/>
+
+**WNYU Radio 89.1FM New York**<br/>
+http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3<br/>
+
+**WRHU 88.7 FM - Radio Hofstra University**<br/>
+http://streamwrhu.net:8090/live.mp3<br/>
+
+**WSBU 88.3 FM St. Bonaventure, NY**<br/>
+http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
+
+
