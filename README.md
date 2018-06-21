@@ -14,13 +14,13 @@
 * URL1: http://dublab.out.airtime.pro:8000/dublab_a
 * URL2: http://dublab.out.airtime.pro:8000/dublab_b
 
-**Fluid Radio – Experimental Frequencies
+**Fluid Radio – Experimental Frequencies**
 * URL1: http://uk4-vn.webcast-server.net:9270/
 
 **KCRW Eclectic 24**
 * URL1: http://kcrw.streamguys1.com/kcrw_128k_aac_e24
 
-**KEXP.org 90.3FM - Where the music matters
+**KEXP.org 90.3FM - Where the music matters**
 * URL1: http://live-mp3-128.kexp.org
 
 **Libble.me Online Radio Stream**
