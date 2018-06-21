@@ -42,3 +42,57 @@ https://xpn2hi.xpn.org/xpn2hi<br/>
 **XPN Radio**<br/>
 https://wxpnhi.xpn.org/xpnhi<br/>
 
+## Classical Streaming Radio Stations:<br/>
+**AbacusFM Classical**<br/>
+http://178.33.232.106:8030<br/>
+
+**Adagio.FM**<br/>
+http://hi1.adagio.fm:9000<br/>
+http://hi5.adagio.fm<br/>
+http://hi.adagio.fm<br/>
+
+**Audiophile Baroque**<br/>
+http://8.38.78.173:8045/stream<br/>
+
+**Audiophile Classical**<br/>
+http://8.38.78.173:8093/stream<br/>
+
+**Linn Classical**<br/>
+http://89.16.185.174:8004/stream<br/>
+
+**Otto's Baroque Music on 1.fm**<br/>
+http://sc8.1.fm:7068/<br/>
+
+**Radio Caprice - Contemporary Classical**<br/>
+http://79.111.119.111:9149/<br/>
+
+**WCPE: The Classical Station**<br/>
+http://audio-ogg.ibiblio.org:8000/wcpe.ogg<br/>
+http://audio-mp3.ibiblio.org:8000/wcpe.mp3<br/>
+
+**WCRB 99.5 Classical New England - A service of WGBH Boston**<br/>
+http://audio.wgbh.org:8004<br/>
+http://audio.wgbh.org:8006<br/>
+
+**Classical 90.9 WGUC Cincinnati Public Radio**<br/>
+https://stream.cinradio.org/wguc<br/>
+
+**WQXR 105.9 FM Classical Radio**<br/>
+http://stream.wqxr.org/wqxr.aac<br/>
+http://stream.wqxr.org/wqxr<br/>
+
+**Operavore**<br/>
+http://opera-stream.wqxr.org/operavore.aac<br/>
+http://opera-stream.wqxr.org/operavore<br/>
+
+**WRTI Classical Philadelphia**<br/>
+http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3<br/>
+
+**WWFM: The Classical Network Philadelphia**<br/>
+https://wwfm.streamguys1.com/live<br/>
+https://wwfm.streamguys1.com/live-mp3<br/>
+
+**WYPR Presents All Classical**<br/>
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3AAC.aac<br/>
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3<br/>
+
