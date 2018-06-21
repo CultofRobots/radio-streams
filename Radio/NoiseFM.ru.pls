@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=2
+Numberofentries=2
 File1=http://play.sas-media.ru/play_256
 Title1=Noise FM - It's Your Lifestyle - 256 kbps MP3
 Length1=-1
