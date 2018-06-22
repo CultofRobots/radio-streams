@@ -115,7 +115,7 @@ http://129.65.35.106:8000/KCPRHIGH<br/>
 **KCSB FM Live, Santa Barbara**<br/>
 http://live.kcsb.org/KCSB_128<br/>
 
-** KPSU 98.1 FM, Portland State University**<br/>
+**KPSU 98.1 FM, Portland State University**<br/>
 http://stream.kpsu.org:8080/listen<br/>
 
 **KUPS 90.1 FM University of Puget Sound**<br/>
@@ -150,4 +150,66 @@ http://streamwrhu.net:8090/live.mp3<br/>
 
 **WSBU 88.3 FM St. Bonaventure, NY**<br/>
 http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
+
+
+## SomaFM Stations:<br/>
+**SomaFM: BAGeL Radio: What alternative rock radio should sound like.**<br/>
+http://ice1.somafm.com/bagel-128-aac<br/>
+http://ice3.somafm.com/bagel-128-aac<br/>
+http://ice1.somafm.com/bagel-128-mp3<br/>
+http://ice3.somafm.com/bagel-128-mp3<br/>
+
+**SomaFM: Black Rock FM: From the Playa to the world, for the annual Burning Man festival.**<br/>
+http://ice1.somafm.com/brfm-128-aac<br/>
+http://ice3.somafm.com/brfm-128-aac<br/>
+http://ice1.somafm.com/brfm-128-mp3<br/>
+http://ice3.somafm.com/brfm-128-mp3<br/>
+
+**SomaFM: Deep Space One: Deep ambient electronic, experimental and space music. For inner and outer space exploration.**<br/>
+http://ice1.somafm.com/deepspaceone-128-aac<br/>
+http://ice3.somafm.com/deepspaceone-128-aac<br/>
+http://ice1.somafm.com/deepspaceone-128-mp3<br/>
+http://ice3.somafm.com/deepspaceone-128-mp3<br/>
+
+**SomaFM: Drone Zone: Served best chilled, safe with most medications. Atmospheric textures with minimal beats.**<br/>
+http://ice1.somafm.com/dronezone-128-aac<br/>
+http://ice3.somafm.com/dronezone-128-aac<br/>
+http://ice1.somafm.com/dronezone-256-mp3<br/>
+http://ice3.somafm.com/dronezone-256-mp3<br/>
+
+**SomaFM: Lush: Sensuous and mellow vocals, mostly female, with an electronic influence.**<br/>
+http://ice1.somafm.com/lush-128-aac<br/>
+http://ice3.somafm.com/lush-128-aac<br/>
+http://ice1.somafm.com/lush-128-mp3<br/>
+http://ice3.somafm.com/lush-128-mp3<br/>
+
+**SomaFM: Mission Control: Celebrating NASA and Space Explorers everywhere.**<br/>
+http://ice1.somafm.com/missioncontrol-128-aac<br/>
+http://ice3.somafm.com/missioncontrol-128-aac<br/>
+http://ice1.somafm.com/missioncontrol-128-mp3<br/>
+http://ice3.somafm.com/missioncontrol-128-mp3<br/>
+
+**SomaFM: SF 10-33: Ambient music mixed with the sounds of San Francisco public safety radio traffic.**<br/>
+http://ice1.somafm.com/sf1033-128-aac<br/>
+http://ice3.somafm.com/sf1033-128-aac<br/>
+http://ice1.somafm.com/sf1033-128-mp3<br/>
+http://ice3.somafm.com/sf1033-128-mp3<br/>
+
+**SomaFM: Sonic Universe: Transcending the world of jazz with eclectic, avant-garde takes on tradition.**<br/>
+http://ice1.somafm.com/sonicuniverse-128-aac<br/>
+http://ice3.somafm.com/sonicuniverse-128-aac<br/>
+http://ice1.somafm.com/sonicuniverse-192-mp3<br/>
+http://ice3.somafm.com/sonicuniverse-192-mp3<br/>
+
+**SomaFM: Space Station Soma: Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.**<br/>
+http://ice1.somafm.com/spacestation-128-aac<br/>
+http://ice3.somafm.com/spacestation-128-aac<br/>
+http://ice1.somafm.com/spacestation-128-mp3<br/>
+http://ice3.somafm.com/spacestation-128-mp3<br/>
+
+**SomaFM: Underground 80s: Early 80s UK Synthpop and a bit of New Wave.**<br/>
+http://ice1.somafm.com/u80s-128-aac<br/>
+http://ice3.somafm.com/u80s-128-aac<br/>
+http://ice1.somafm.com/u80s-256-mp3<br/>
+http://ice3.somafm.com/u80s-256-mp3<br/>
 
