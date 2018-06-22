@@ -36,6 +36,10 @@ http://stream-relay-geo.ntslive.net/stream<br/>
 **NTS 2**<br/>
 http://stream-relay-geo.ntslive.net/stream2<br/>
 
+**opbmusic.org - Alternative and indie rock from Portland, Oregon**<br/> 
+File1=https://stream5.opb.org/musicaac128.aac<br/> 
+File2=https://stream5.opb.org/opbmusic_hbr.mp3<br/> 
+
 **XPN2: XPoNential Radio**<br/>
 https://xpn2hi.xpn.org/xpn2hi<br/>
 
