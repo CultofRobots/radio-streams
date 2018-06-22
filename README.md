@@ -30,7 +30,7 @@ http://radio.libble.me:8000/libble<br/>
 http://play.sas-media.ru/play_256<br/>
 http://play.sas-media.ru/play_64_aac<br/>
 
-**NPR All Songs 24/7 Music Channel**<br/>
+**NPR All Songs Considered 24/7 Music Channel**<br/>
 https://nprdmp-stream02.akacast.akamaistream.net/7/940/364919/v1/npr.akacast.akamaistream.net/nprdmp_stream02.aac<br/>
 https://nprdmp-stream02.akacast.akamaistream.net/7/940/364919/v1/npr.akacast.akamaistream.net/nprdmp_stream02.mp3<br/>
 
