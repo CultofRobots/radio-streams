@@ -54,6 +54,13 @@ http://stream-relay-geo.ntslive.net/stream2<br/>
 File1=https://stream5.opb.org/musicaac128.aac<br/> 
 File2=https://stream5.opb.org/opbmusic_hbr.mp3<br/> 
 
+**WFMU - Freeform Radio the Way it Oughta Be**<br/>
+http://stream0.wfmu.org/freeform-high.aac<br/>
+http://stream0.wfmu.org/freeform-128k<br/>
+http://stream1.wfmu.org/freeform-128k<br/>
+http://stream2.wfmu.org/freeform-128k<br/>
+http://stream3.wfmu.org/freeform-128k<br/>
+
 **XPN2: XPoNential Radio**<br/>
 https://xpn2hi.xpn.org/xpn2hi<br/>
 
