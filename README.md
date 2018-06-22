@@ -1,6 +1,6 @@
 # playlists<br/>
 
-## Streaming Radio Stations:<br/>
+##Radio Streams:<br/>
 **192 Radio Nederland**<br/>
 http://server-67.stream-server.nl:8192/stream<br/>
 http://server-09.stream-server.nl:8030/stream<br/>
@@ -76,7 +76,7 @@ https://whyy-hd.streamguys1.com/whyy-hd-mp3<br/>
 http://fm939.wnyc.org/wnycfm.aac<br/>
 http://fm939.wnyc.org/wnycfm<br/>
 
-## Classical Streaming Radio Stations:<br/>
+## Classical Streams:<br/>
 **AbacusFM Classical**<br/>
 http://178.33.232.106:8030<br/>
 
@@ -130,7 +130,27 @@ https://wwfm.streamguys1.com/live-mp3<br/>
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3AAC.aac<br/>
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3<br/>
 
-## College Radio Stations:<br/>
+##Jazz Streams:<br/>
+**Audiophile Jazz**<br/>
+http://8.38.78.173:8210/stream<br/>
+
+**KMDH 89.1FM Jazz Radio**<br/>
+http://stream5.opb.org/kmhd.mp3<br/>
+
+**WBGO HD2 - The Jazz Bee**<br/>
+http://wbgo.streamguys.net/thejazzstream<br/>
+
+**WBGO - The Jazz Source.pls:Title=WBGO - The Jazz Source**<br/>
+http://wbgo.streamguys.net/wbgo_AAC-LC_256<br/>
+http://wbgo.streamguys.net/wbgo128<br/>
+
+**WRTI Jazz Radio, Philadelphia**<br/>
+http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3<br/>
+
+**WWOZ New Orleans 90.7 FM - New Orleans music to the universe!**<br/>
+http://wwoz-sc.streamguys1.com/wwoz-hi.mp3<br/>
+
+## College Streams:<br/>
 **KALX 90.7FM Berkeley**<br/>
 http://stream.kalx.berkeley.edu:8000/kalx-320.aac<br/>
 http://stream.kalx.berkeley.edu:8000/kalx-256.mp3<br/>
