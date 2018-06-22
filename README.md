@@ -21,6 +21,9 @@ http://dublab.out.airtime.pro:8000/dublab_b<br/>
 **Fluid Radio – Experimental Frequencies**<br/>
 http://uk4-vn.webcast-server.net:9270/<br/>
 
+**FluxFM - Livestream**<br/>
+http://fluxfm.hoerradar.de/fluxfmberlin-live-mp3-hq<br/>
+
 **KCRW Eclectic 24**<br/>
 http://kcrw.streamguys1.com/kcrw_128k_aac_e24<br/>
 
