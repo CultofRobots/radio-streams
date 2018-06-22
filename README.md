@@ -24,9 +24,6 @@ http://uk4-vn.webcast-server.net:9270/<br/>
 **FluxFM**<br/>
 http://fluxfm.hoerradar.de/fluxfmberlin-live-mp3-hq<br/>
 
-**FluxFM - Clubsandwich**<br/>
-http://fluxfm.hoerradar.de/flux-clubsandwich-mp3-hq<br/>
-
 **FluxFM - Ohrspiel**<br/>
 http://fluxfm.hoerradar.de/flux-ohrspiel-mp3-hq<br/>
 
@@ -56,9 +53,6 @@ http://stream-relay-geo.ntslive.net/stream2<br/>
 **opbmusic.org - Alternative and indie rock from Portland, Oregon**<br/> 
 File1=https://stream5.opb.org/musicaac128.aac<br/> 
 File2=https://stream5.opb.org/opbmusic_hbr.mp3<br/> 
-
-**Red Light Radio Amsterdam**<br/>
-http://www.michielgardner.nl:8000/redlightradio<br/>
 
 **XPN2: XPoNential Radio**<br/>
 https://xpn2hi.xpn.org/xpn2hi<br/>
@@ -217,11 +211,17 @@ http://streamwrhu.net:8090/live.mp3<br/>
 http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
 
 ##Electronic Streams:<br/><br/>
+**FluxFM - Clubsandwich**<br/>
+http://fluxfm.hoerradar.de/flux-clubsandwich-mp3-hq<br/>
+
 **FluxFM - ElektroFlux**<br/>
 http://fluxfm.hoerradar.de/flux-electro-mp3-hq<br/>
 
 **FluxFM - Sound of Berlin**<br/>
 http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq<br/>
+
+**Red Light Radio Amsterdam**<br/>
+http://www.michielgardner.nl:8000/redlightradio<br/>
 
 **Techno Underground**<br/>
 http://fluxfm.hoerradar.de/flux-technoug-mp3-hq<br/>
