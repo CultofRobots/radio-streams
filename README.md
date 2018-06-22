@@ -50,6 +50,32 @@ https://xpn2hi.xpn.org/xpn2hi<br/>
 **XPN Radio**<br/>
 https://wxpnhi.xpn.org/xpnhi<br/>
 
+##Public Radio<br/>
+**AP News Update**<br/>
+http://kcrw.streamguys1.com/apnews.aac<br/>
+http://kcrw.streamguys1.com/apnews<br/>
+
+**BBC World Service News stream**<br/>
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws<br/>
+
+**KCRW Live**<br/>
+http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air<br/>
+http://kcrw.streamguys1.com/kcrw_128k_aac_on_air<br/>
+
+**KCRW News Radio**<br/>
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news<br/>
+http://kcrw.streamguys1.com/kcrw_128k_aac_news<br/>
+
+**WAMU 88.5 Live, American University Radio, DC**<br/>
+https://hd1.wamu.org/<br/>
+
+**WHYY Plus Philadelphia - Classical music, world news and information programs**<br/>
+https://whyy-hd.streamguys1.com/whyy-hd-mp3<br/>
+
+**WNYC 93.9 FM: New York Public Radio**<br/>
+http://fm939.wnyc.org/wnycfm.aac<br/>
+http://fm939.wnyc.org/wnycfm<br/>
+
 ## Classical Streaming Radio Stations:<br/>
 **AbacusFM Classical**<br/>
 http://178.33.232.106:8030<br/>
@@ -150,7 +176,6 @@ http://streamwrhu.net:8090/live.mp3<br/>
 
 **WSBU 88.3 FM St. Bonaventure, NY**<br/>
 http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
-
 
 ## SomaFM Stations:<br/>
 **SomaFM: BAGeL Radio: What alternative rock radio should sound like.**<br/>
