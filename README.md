@@ -30,6 +30,10 @@ http://radio.libble.me:8000/libble<br/>
 http://play.sas-media.ru/play_256<br/>
 http://play.sas-media.ru/play_64_aac<br/>
 
+**NPR All Songs 24/7 Music Channel**<br/>
+https://nprdmp-stream02.akacast.akamaistream.net/7/940/364919/v1/npr.akacast.akamaistream.net/nprdmp_stream02.aac<br/>
+https://nprdmp-stream02.akacast.akamaistream.net/7/940/364919/v1/npr.akacast.akamaistream.net/nprdmp_stream02.mp3<br/>
+
 **NTS Radio Live Broadcast**<br/>
 http://stream-relay-geo.ntslive.net/stream<br/>
 
@@ -146,5 +150,4 @@ http://streamwrhu.net:8090/live.mp3<br/>
 
 **WSBU 88.3 FM St. Bonaventure, NY**<br/>
 http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
-
 
