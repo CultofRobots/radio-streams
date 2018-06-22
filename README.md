@@ -21,8 +21,11 @@ http://dublab.out.airtime.pro:8000/dublab_b<br/>
 **Fluid Radio – Experimental Frequencies**<br/>
 http://uk4-vn.webcast-server.net:9270/<br/>
 
-**FluxFM - Livestream**<br/>
+**FluxFM**<br/>
 http://fluxfm.hoerradar.de/fluxfmberlin-live-mp3-hq<br/>
+
+**FluxFM - Clubsandwich**<br/>
+http://fluxfm.hoerradar.de/flux-clubsandwich-mp3-hq<br/>
 
 **KCRW Eclectic 24**<br/>
 http://kcrw.streamguys1.com/kcrw_128k_aac_e24<br/>
@@ -109,6 +112,9 @@ http://sc8.1.fm:7068/<br/>
 
 **Radio Caprice - Contemporary Classical**<br/>
 http://79.111.119.111:9149/<br/>
+
+**NeoFM**<br/>
+http://fluxfm.hoerradar.de/flux-neofm-mp3-hq<br/>
 
 **WCPE: The Classical Station**<br/>
 http://audio-ogg.ibiblio.org:8000/wcpe.ogg<br/>
