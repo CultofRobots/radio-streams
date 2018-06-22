@@ -10,6 +10,10 @@ http://server-06.stream-server.nl:8030/stream<br/>
 **Audiophile Xtreme Live**<br/>
 http://8.38.78.173:8156/stream<br/>
 
+**Berlin Community Radio**<br/>
+http://berlincommunityradio.out.airtime.pro:8000/berlincommunityradio_a<br/>
+http://berlincommunityradio.out.airtime.pro:8000/berlincommunityradio_b<br/>
+
 **DubLab: coming at you from LA**<br/>
 http://dublab.out.airtime.pro:8000/dublab_a<br/>
 http://dublab.out.airtime.pro:8000/dublab_b<br/>
