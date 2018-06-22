@@ -216,6 +216,16 @@ http://streamwrhu.net:8090/live.mp3<br/>
 **WSBU 88.3 FM St. Bonaventure, NY**<br/>
 http://20803.live.streamtheworld.com/WSBUFMAAC.aac<br/>
 
+##Electronic Streams:<br/><br/>
+**FluxFM - ElektroFlux**<br/>
+http://fluxfm.hoerradar.de/flux-electro-mp3-hq<br/>
+
+**FluxFM - Sound of Berlin**<br/>
+http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq<br/>
+
+**Techno Underground**<br/>
+http://fluxfm.hoerradar.de/flux-technoug-mp3-hq<br/>
+
 ## SomaFM Stations:<br/>
 **SomaFM: BAGeL Radio: What alternative rock radio should sound like.**<br/>
 http://ice1.somafm.com/bagel-128-aac<br/>
