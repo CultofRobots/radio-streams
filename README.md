@@ -67,6 +67,9 @@ https://xpn2hi.xpn.org/xpn2hi<br/>
 **XPN Radio**<br/>
 https://wxpnhi.xpn.org/xpnhi<br/>
 
+**XRAY.fm - KXRY 107.1 / 91.1 FM (Portland, OR)**<br/>
+http://listen.xray.fm:8000/stream<br/>
+
 ##Public Radio<br/>
 **AP News Update**<br/>
 http://kcrw.streamguys1.com/apnews.aac<br/>
