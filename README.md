@@ -239,6 +239,12 @@ http://fluxfm.hoerradar.de/flux-electro-mp3-hq<br/>
 **FluxFM - Sound of Berlin**<br/>
 http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq<br/>
 
+**Mixing of Particulate Solids Radio 1 [Bratislava/Slovakia]**<br/>
+http://147.175.61.100:8000/<br/>
+
+**Mixing of Particulate Solids Radio 3 [Bratislava/Slovakia]**<br/>
+http://147.175.61.55:8000/<br/>
+
 **Red Light Radio Amsterdam**<br/>
 http://www.michielgardner.nl:8000/redlightradio<br/>
 
