@@ -27,6 +27,10 @@ http://fluxfm.hoerradar.de/fluxfmberlin-live-mp3-hq<br/>
 **FluxFM - Ohrspiel**<br/>
 http://fluxfm.hoerradar.de/flux-ohrspiel-mp3-hq<br/>
 
+**Itinerant Radio**<br/>
+http://us5.internet-radio.com:8033/stream<br/>
+http://us5.internet-radio.com:8033/live<br/>
+
 **KCRW Eclectic 24**<br/>
 http://kcrw.streamguys1.com/kcrw_128k_aac_e24<br/>
 
