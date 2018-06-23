@@ -190,6 +190,9 @@ http://stream.kpsu.org:8080/listen<br/>
 **KUPS 90.1 FM University of Puget Sound**<br/>
 http://stream.kups.net<br/>
 
+**KUSF 90.3 FM - University of San Francisco**<br/>
+http://104.236.145.45:8000/stream<br/>
+
 **WECB Radio - The Underground Sound of Emerson College**<br/>
 http://marconi.emerson.edu:8000/wecb-aac<br/>
 http://marconi.emerson.edu:8000/wecb<br/>
