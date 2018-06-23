@@ -318,3 +318,24 @@ http://ice3.somafm.com/u80s-128-aac<br/>
 http://ice1.somafm.com/u80s-256-mp3<br/>
 http://ice3.somafm.com/u80s-256-mp3<br/>
 
+##Experimental Streams
+**Inverted Systems**<br/>
+http://invertsys.com:8000/play<br/>
+
+**MASCHINENGEIST.ORG Radio**<br/>
+http://i.20hz.biz:8000/maschinengeist.org.192.mp3<br/>
+http://185.32.125.42:7331/maschinengeist.org.mp3<br/>
+http://178.209.52.163:7331/maschinengeist.org.128.aacp<br/>
+
+**Radio Caprice - Experimental / Avant-Garde Music**<br/>
+http://79.111.119.111:9109/<br/>
+
+**Radio Caprice - Industrial / Dark / Ritual Ambient**<br/>
+http://79.120.39.202:9095/<br/>
+
+**RePlayScape ...art...in...ear**<br/>
+http://RePlay2Scape.serverroom.us:4284<br/>
+
+**Shirley and Spinoza Radio**<br/>
+http://206.190.136.212:4462/Live<br/>
+
