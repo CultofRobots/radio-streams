@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/sonicuniverse-128-aac
 Title1=SomaFM: Sonic Universe (#1 128-aac): Transcending the world of jazz with eclectic, avant-garde takes on tradition.
 Length1=-1

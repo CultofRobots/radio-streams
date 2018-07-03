@@ -1,6 +1,6 @@
 [playlist]
-numberofentries=1
-File1=http://89.16.185.174:8004/stream
+NumberOfEntries=1
 Title1=Linn Classical
+File1=http://89.16.185.174:8004/stream
 Length1=-1
-version=2
+Version=2

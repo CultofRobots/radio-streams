@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/dronezone-128-aac
 Title1=SomaFM: Drone Zone (#1 128-aac): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
 Length1=-1

@@ -1,15 +1,15 @@
 [playlist]
-File1=http://server-67.stream-server.nl:8192/stream
+NumberOfEntries=4
 Title1=192 Radio Nederland
+File1=http://server-67.stream-server.nl:8192/stream
 Length1=-1
-File2=http://server-09.stream-server.nl:8030/stream
 Title2=192 Radio Nederland
+File2=http://server-09.stream-server.nl:8030/stream
 Length2=-1
-File3=http://server-14.stream-server.nl:8030/stream
 Title3=192 Radio Nederland
+File3=http://server-14.stream-server.nl:8030/stream
 Length3=-1
-File4=http://server-06.stream-server.nl:8030/stream
 Title4=192 Radio Nederland
+File4=http://server-06.stream-server.nl:8030/stream
 Length4=-1
-Numberofentries=4
 Version=2

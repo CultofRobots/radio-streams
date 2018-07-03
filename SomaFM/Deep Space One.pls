@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/deepspaceone-128-aac
 Title1=SomaFM: Deep Space One (#1 128-aac): Deep ambient electronic, experimental and space music. For inner and outer space exploration.
 Length1=-1

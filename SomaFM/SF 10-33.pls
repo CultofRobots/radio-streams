@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/sf1033-128-aac
 Title1=SomaFM: SF 10-33 (#1 128-aac): Ambient music mixed with the sounds of San Francisco public safety radio traffic.
 Length1=-1

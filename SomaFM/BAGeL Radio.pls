@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/bagel-128-aac
 Title1=SomaFM: BAGeL Radio (#1 128-aac): What alternative rock radio should sound like.
 Length1=-1

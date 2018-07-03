@@ -1,6 +1,6 @@
 [playlist]
-numberofentries=1
-File1=http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq
+NumberOfEntries=1
 Title1=FluxFM - Sound of Berlin
+File1=http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq
 Length1=-1
-version=2
+Version=2

@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/u80s-128-aac
 Title1=SomaFM: Underground 80s (#1 128-aac): Early 80s UK Synthpop and a bit of New Wave.
 Length1=-1

@@ -1,5 +1,5 @@
 [playlist]
-numberofentries=4
+NumberOfEntries=4
 File1=http://ice1.somafm.com/brfm-128-aac
 Title1=SomaFM: Black Rock FM (#1 128-aac): From the Playa to the world, for the annual Burning Man festival.
 Length1=-1
