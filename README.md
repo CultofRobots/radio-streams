@@ -254,6 +254,9 @@ http://147.175.61.55:8000/<br/>
 **Red Light Radio Amsterdam**<br/>
 http://www.michielgardner.nl:8000/redlightradio<br/>
 
+**Rinse FM - London & Worldwide**<br/>
+http://streamer.dgen.net:8000/rinseradio<br/>
+
 **Techno Underground**<br/>
 http://fluxfm.hoerradar.de/flux-technoug-mp3-hq<br/>
 
