@@ -229,6 +229,12 @@ http://wknc.sma.ncsu.edu:8000/wknchq<br/>
 **WNYU Radio 89.1FM New York**<br/>
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3<br/>
 
+**WREK Atlanta 91.1fm - Georgia Tech Student Radio, 128kbit**<br/>
+http://streaming.wrek.org:8000/main/128kb.mp3<br/>
+
+**WREK Atlanta HD2 - Georgia Tech Student Radio, 128kbit**<br/>
+http://streaming.wrek.org:8000/hd2/128kb.mp3<br/>
+
 **WRHU 88.7 FM - Radio Hofstra University**<br/>
 http://streamwrhu.net:8090/live.mp3<br/>
 
