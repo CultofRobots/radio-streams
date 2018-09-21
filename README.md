@@ -18,6 +18,9 @@ http://berlincommunityradio.out.airtime.pro:8000/berlincommunityradio_b<br/>
 http://dublab.out.airtime.pro:8000/dublab_a<br/>
 http://dublab.out.airtime.pro:8000/dublab_b<br/>
 
+**FBi 94.5 FM Live Radio**<br/>
+https://stream.fbiradio.com/stream.mp3<br/>
+
 **Fluid Radio – Experimental Frequencies**<br/>
 http://uk4-vn.webcast-server.net:9270/<br/>
 
