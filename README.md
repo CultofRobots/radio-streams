@@ -349,5 +349,5 @@ http://79.120.39.202:9095/<br/>
 http://RePlay2Scape.serverroom.us:4284<br/>
 
 **Shirley and Spinoza Radio**<br/>
-http://206.190.136.212:4462/Live<br/>
+http://s2.radio.co:80/sec5fa6199/listen<br/>
 
