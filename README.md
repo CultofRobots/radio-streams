@@ -331,6 +331,9 @@ http://ice1.somafm.com/u80s-256-mp3<br/>
 http://ice3.somafm.com/u80s-256-mp3<br/>
 
 ## Experimental Streams
+**CAMP Radio**<br/>
+http://listen.camp.com:8000/320<br/>
+
 **Inverted Systems**<br/>
 http://invertsys.com:8000/play<br/>
 
