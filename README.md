@@ -269,6 +269,16 @@ http://streamer.dgen.net:8000/rinseradio<br/>
 **Techno Underground**<br/>
 http://fluxfm.hoerradar.de/flux-technoug-mp3-hq<br/>
 
+## Intergalactic FM Stations:<br/>
+**Intergalactic FM 1: Cybernetic Broadcasting System**<br/> 
+http://radio.intergalactic.fm:80/1aac<br/>
+
+**Intergalactic FM 2: Disco Fetish**<br/>
+http://radio.intergalactic.fm:80/2aac
+
+**Intergalactic FM 3: The Dream Machine**<br/>
+http://radio.intergalactic.fm:80/3aac
+
 ## SomaFM Stations:<br/>
 **SomaFM: BAGeL Radio: What alternative rock radio should sound like.**<br/>
 http://ice1.somafm.com/bagel-128-aac<br/>
