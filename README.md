@@ -126,8 +126,19 @@ http://8.38.78.173:8045/stream<br/>
 **Audiophile Classical**<br/>
 http://8.38.78.173:8093/stream<br/>
 
+**ClassicFM**<br/>
+http://media-ice.musicradio.com/ClassicFMMP3<br/>
+http://media-ice.musicradio.com/ClassicFM<br/>
+
 **Linn Classical**<br/>
 http://89.16.185.174:8004/stream<br/>
+
+**NeoFM**<br/>
+http://fluxfm.hoerradar.de/flux-neofm-mp3-hq<br/>
+
+**Operavore**<br/>
+http://opera-stream.wqxr.org/operavore.aac<br/>
+http://opera-stream.wqxr.org/operavore<br/>
 
 **Otto's Baroque Music on 1.fm**<br/>
 http://sc8.1.fm:7068/<br/>
@@ -135,8 +146,18 @@ http://sc8.1.fm:7068/<br/>
 **Radio Caprice - Contemporary Classical**<br/>
 http://79.111.119.111:9149/<br/>
 
-**NeoFM**<br/>
-http://fluxfm.hoerradar.de/flux-neofm-mp3-hq<br/>
+**Radio Swiss Classic**<br/>
+http://stream.srg-ssr.ch/m/rsc_de/aacp_96<br/>
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128<br/>
+
+**Venice Classic Radio Italia**<br/>
+http://109.123.116.202:8010/stream1<br/>
+http://109.123.116.202:8022/stream1<br/>
+http://109.123.116.202:8020/stream1<br/>
+http://174.36.206.197:8000/stream1<br/>
+http://5.196.98.235/stream1<br/>
+http://5.135.173.165/stream1<br/>
+http://144.217.49.251/stream1<br/>
 
 **WCPE: The Classical Station**<br/>
 http://audio-ogg.ibiblio.org:8000/wcpe.ogg<br/>
@@ -146,16 +167,12 @@ http://audio-mp3.ibiblio.org:8000/wcpe.mp3<br/>
 http://audio.wgbh.org:8004<br/>
 http://audio.wgbh.org:8006<br/>
 
-**Classical 90.9 WGUC Cincinnati Public Radio**<br/>
+**WGUC 90.9 Classical Cincinnati Public Radio**<br/>
 https://stream.cinradio.org/wguc<br/>
 
 **WQXR 105.9 FM Classical Radio**<br/>
 http://stream.wqxr.org/wqxr.aac<br/>
 http://stream.wqxr.org/wqxr<br/>
-
-**Operavore**<br/>
-http://opera-stream.wqxr.org/operavore.aac<br/>
-http://opera-stream.wqxr.org/operavore<br/>
 
 **WRTI Classical Philadelphia**<br/>
 http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3<br/>
