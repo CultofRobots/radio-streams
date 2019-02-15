@@ -1,9 +1,12 @@
 [playlist]
-NumberOfEntries=2
-Title1=WWFM: The Classical Network Philadelphia (aac)
+
 File1=https://wwfm.streamguys1.com/live
+Title1=WWFM: The Classical Network Philadelphia (aac)
 Length1=-1
-Title2=WWFM: The Classical Network Philadelphia (mp3)
+
 File2=https://wwfm.streamguys1.com/live-mp3
+Title2=WWFM: The Classical Network Philadelphia (mp3)
 Length2=-1
+
+NumberOfEntries=2
 Version=2
