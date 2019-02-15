@@ -126,6 +126,9 @@ http://8.38.78.173:8045/stream<br/>
 **Audiophile Classical**<br/>
 http://8.38.78.173:8093/stream<br/>
 
+**BBC Radio 3**<br/>
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q<br/>
+
 **ClassicFM**<br/>
 http://media-ice.musicradio.com/ClassicFMMP3<br/>
 http://media-ice.musicradio.com/ClassicFM<br/>
