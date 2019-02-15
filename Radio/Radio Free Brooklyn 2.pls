@@ -1,9 +1,12 @@
 [playlist]
-NumberOfEntries=2
-Title1=RFB 2: LocalChords - Radio Free Brooklyn
+
 File1=http://patmos.cdnstream.com:9310/stream
+Title1=RFB 2: LocalChords - Radio Free Brooklyn
 Length1=-1
-Title2=RFB 2: LocalChords - Radio Free Brooklyn
+
 File2=http://patmos.cdnstream.com:9310/live
+Title2=RFB 2: LocalChords - Radio Free Brooklyn
 Length2=-1
+
+NumberOfEntries=2
 Version=2
