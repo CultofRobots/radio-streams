@@ -1,6 +1,6 @@
-# playlists<br/>
+# Radio Streams<br/>
 
-## Radio Streams:<br/>
+## General Radio Streams:<br/>
 **192 Radio Nederland**<br/>
 http://server-67.stream-server.nl:8192/stream<br/>
 http://server-09.stream-server.nl:8030/stream<br/>
