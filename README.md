@@ -358,6 +358,12 @@ http://ice3.somafm.com/spacestation-128-aac<br/>
 http://ice1.somafm.com/spacestation-128-mp3<br/>
 http://ice3.somafm.com/spacestation-128-mp3<br/>
 
+**SomaFM: Suburbs of Goa: Desi-influenced Asian world beats and beyond.**<br/>
+http://ice1.somafm.com/suburbsofgoa-128-aac<br/>
+http://ice3.somafm.com/suburbsofgoa-128-aac<br/>
+http://ice1.somafm.com/suburbsofgoa-128-mp3<br/>
+http://ice3.somafm.com/suburbsofgoa-128-mp3<br/>
+
 **SomaFM: Underground 80s: Early 80s UK Synthpop and a bit of New Wave.**<br/>
 http://ice1.somafm.com/u80s-128-aac<br/>
 http://ice3.somafm.com/u80s-128-aac<br/>
