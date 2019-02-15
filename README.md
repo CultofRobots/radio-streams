@@ -58,8 +58,8 @@ http://stream-relay-geo.ntslive.net/stream<br/>
 http://stream-relay-geo.ntslive.net/stream2<br/>
 
 **opbmusic.org - Alternative and indie rock from Portland, Oregon**<br/> 
-File1=https://stream5.opb.org/musicaac128.aac<br/> 
-File2=https://stream5.opb.org/opbmusic_hbr.mp3<br/> 
+https://stream5.opb.org/musicaac128.aac<br/> 
+https://stream5.opb.org/opbmusic_hbr.mp3<br/> 
 
 **Radio Free Brooklyn - This is What Brooklyn Sounds Like**<br/>
 http://patmos.cdnstream.com:9300/stream<br/>
