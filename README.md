@@ -133,6 +133,9 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q<br/>
 http://media-ice.musicradio.com/ClassicFMMP3<br/>
 http://media-ice.musicradio.com/ClassicFM<br/>
 
+**"Davide of MIMIC - http://meetinginmusic.blogspot.com**<br/>
+http://uk3.internet-radio.com:8060/stream/<br/>
+
 **Linn Classical**<br/>
 http://89.16.185.174:8004/stream<br/>
 
@@ -145,6 +148,7 @@ http://opera-stream.wqxr.org/operavore<br/>
 
 **Otto's Baroque Music on 1.fm**<br/>
 http://sc8.1.fm:7068/<br/>
+http://sc-baroque.1.fm:8045/</br>
 
 **Radio Caprice - Contemporary Classical**<br/>
 http://79.111.119.111:9149/<br/>
