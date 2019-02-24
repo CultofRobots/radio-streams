@@ -65,6 +65,12 @@ https://stream5.opb.org/opbmusic_hbr.mp3<br/>
 http://patmos.cdnstream.com:9300/stream<br/>
 http://patmos.cdnstream.com:9300/live<br/>
 
+**Resonance 104.4FM - The UK's first Radio Arts Station**<br/>
+http://stream.resonance.fm:8000/resonance<br/>
+
+**Resonance Extra - A pioneering 24/7 broadcast platform dedicated to the global artistic community**<br/>
+http://stream.resonance.fm:8000/resonance-extra<br/>
+
 **RFB 2: LocalChords - Radio Free Brooklyn**<br/>
 http://patmos.cdnstream.com:9310/stream<br/>
 http://patmos.cdnstream.com:9310/live<br/>
